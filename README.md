@@ -1,4 +1,4 @@
-![MetaMask logo](logo.png?raw=true)
+
 
 # Sentience
 
